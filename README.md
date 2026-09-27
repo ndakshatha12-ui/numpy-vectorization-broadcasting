@@ -1,0 +1,1 @@
+# numpy-vectorization-broadcasting
